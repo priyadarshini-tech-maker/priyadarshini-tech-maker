@@ -163,3 +163,39 @@
 </div>
 
 <!-- =============== END CONTRIBUTION SNAKE =============== -->
+
+<!-- =============== PROJECT SHOWCASE =============== -->
+
+<h2 align="center">🚀 MY DIGITAL CREATIONS</h2>
+
+<p align="center">
+  <i>Ideas transformed into code. Innovation transformed into reality.</i>
+</p>
+
+<div align="center">
+
+<a href="https://github.com/priyadarshini-tech-maker/secure-craft-works">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=priyadarshini-tech-maker&repo=secure-craft-works&bg_color=0D001A&title_color=E879F9&text_color=FFFFFF&icon_color=C084FC&hide_border=true" />
+</a>
+
+<a href="https://github.com/priyadarshini-tech-maker/AdPulseSentinel">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=priyadarshini-tech-maker&repo=AdPulseSentinel&bg_color=0D001A&title_color=E879F9&text_color=FFFFFF&icon_color=C084FC&hide_border=true" />
+</a>
+
+<a href="https://github.com/priyadarshini-tech-maker/Internship_Project-SentinelX-AI">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=priyadarshini-tech-maker&repo=Internship_Project-SentinelX-AI&bg_color=0D001A&title_color=E879F9&text_color=FFFFFF&icon_color=C084FC&hide_border=true" />
+</a>
+
+<a href="https://github.com/priyadarshini-tech-maker/Crud_Project1-Vehicle-Management-System">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=priyadarshini-tech-maker&repo=Crud_Project1-Vehicle-Management-System&bg_color=0D001A&title_color=E879F9&text_color=FFFFFF&icon_color=C084FC&hide_border=true" />
+</a>
+
+</div>
+
+<p align="center">
+<a href="https://github.com/priyadarshini-tech-maker?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<!-- =============== END PROJECT SHOWCASE =============== -->
