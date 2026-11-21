@@ -282,3 +282,97 @@
 </div>
 
 <!-- =============== END TECH ARSENAL =============== -->
+
+## 🌈 NEON DIGITAL LAB
+
+<div align="center">
+
+# PRIYADARSHINI P.
+
+> Software Developer | Cybersecurity Enthusiast | Creative Technologist
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=priyadarshini-tech-maker&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248174459%3Fv%3D4" alt="Priyadarshini neon profile hero" />
+</p>
+
+### DREAM. DESIGN. DEVELOP. DEFEND.
+
+</div>
+
+## 👩‍💻 About Me
+
+I'm a Computer Science and Engineering student specializing in Cybersecurity, passionate about building useful technology and exploring the world of software development and security.
+
+- 🐍 Learning Python, Java and JavaScript
+- 🛡️ Exploring Cybersecurity, Linux, Networking and Web Security
+- 🌐 Interested in Full-Stack Development and Creative Web Experiences
+- 🤖 Exploring AI, IoT Security and emerging technologies
+- 🚀 Building real-world projects and learning in public
+
+## ⚡ Technology Arsenal
+
+**Programming:** Python · Java · JavaScript
+
+**Frontend:** HTML5 · CSS3 · React
+
+**Backend & Database:** Node.js · MySQL
+
+**Cybersecurity:** Linux · Bash · Networking · TryHackMe · Web Security
+
+**Tools:** Git · GitHub
+
+## 📊 GitHub Signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=priyadarshini-tech-maker&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F248174459%3Fv%3D4" alt="GitHub statistics" />
+</p>
+
+## 🚀 Featured Experiments
+
+- **[Secure Craft Works](https://github.com/priyadarshini-tech-maker/secure-craft-works)** — Cybersecurity-focused project
+- **[AdPulse Sentinel](https://github.com/priyadarshini-tech-maker/AdPulseSentinel)** — Project exploring intelligent ad monitoring
+- **[Priya Cyber Portfolio](https://github.com/priyadarshini-tech-maker/Priya-cyber-portfolio)** — Personal cybersecurity portfolio
+- **[Vehicle Management System](https://github.com/priyadarshini-tech-maker/Crud_Project1-Vehicle-Management-System)** — Full-stack application using Node.js, Express and MySQL
+- **[Case Study](https://github.com/priyadarshini-tech-maker/Case--Study)** — System and design case study
+- **[Case Study Part 2](https://github.com/priyadarshini-tech-maker/case--study-part2)** — Second-stage system design work
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/priyadarshini-tech-maker">
+    <img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyadarshini-p">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+## 🌌 3D Contribution Universe
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+    <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph" />
+  </picture>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyadarshini-tech-maker/priyadarshini-tech-maker/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyadarshini-tech-maker/priyadarshini-tech-maker/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/priyadarshini-tech-maker/priyadarshini-tech-maker/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+  </picture>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ DREAM. DESIGN. DEVELOP. DEFEND. ✨
+
+<sub>Building my digital universe, one project at a time.</sub>
+
+</div>
