@@ -80,6 +80,28 @@
 
 ### 💜 EXPLORE. INNOVATE. SECURE.
 
+<!-- =============== GITHUB STATISTICS =============== -->
+
+<h2 align="center">⚡ MY GITHUB UNIVERSE ⚡</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyadarshini-tech-maker&show_icons=true&hide_border=true&bg_color=0D001A&title_color=E879F9&icon_color=C084FC&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadarshini-tech-maker&layout=compact&hide_border=true&bg_color=0D001A&title_color=E879F9&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=priyadarshini-tech-maker&hide_border=true&background=0D001A&ring=E879F9&fire=EC4899&currStreakLabel=E879F9&sideLabels=FFFFFF&dates=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyadarshini-tech-maker&bg_color=0D001A&color=E879F9&line=C084FC&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+<!-- =============== END GITHUB STATISTICS =============== -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:9333EA,100:090014&height=120&section=footer" width="100%" />
 
 </div>
