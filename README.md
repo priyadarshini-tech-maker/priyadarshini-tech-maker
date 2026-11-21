@@ -107,3 +107,59 @@
 </div>
 
 <!-- =============== END PRIYA.EXE =============== -->
+
+<!-- =============== 3D CONTRIBUTION UNIVERSE =============== -->
+
+<h2 align="center">🌌 MY 3D CONTRIBUTION UNIVERSE</h2>
+
+<div align="center">
+
+<p>Every contribution builds my digital universe.</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-3d-contrib/profile-green-animate.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile-3d-contrib/profile-south-season-animate.svg"
+  />
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    width="100%"
+    alt="3D GitHub contribution graph"
+  />
+</picture>
+
+</div>
+
+<!-- =============== END 3D CONTRIBUTIONS =============== -->
+
+<!-- =============== CONTRIBUTION SNAKE =============== -->
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+
+<p>Watch my contributions come alive!</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/priyadarshini-tech-maker/priyadarshini-tech-maker/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/priyadarshini-tech-maker/priyadarshini-tech-maker/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/priyadarshini-tech-maker/priyadarshini-tech-maker/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Animated GitHub contribution snake"
+  />
+</picture>
+
+</div>
+
+<!-- =============== END CONTRIBUTION SNAKE =============== -->
