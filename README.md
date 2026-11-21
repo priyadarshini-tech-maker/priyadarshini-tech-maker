@@ -199,3 +199,27 @@
 </p>
 
 <!-- =============== END PROJECT SHOWCASE =============== -->
+
+<!-- =============== PRIYA.EXE TERMINAL =============== -->
+
+<h2 align="center">⌨️ SYSTEM TERMINAL</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=700&color=E879F9&center=true&vCenter=true&width=650&height=130&lines=%24+whoami+%E2%86%92+Priyadarshini;%24+role+%E2%86%92+Cybersecurity+Student;%24+mission+%E2%86%92+Build+%26+Secure;%24+status+%E2%86%92+Always+Learning;%24+echo+%22Dream.+Design.+Develop.+Defend.%22" />
+
+</div>
+
+```text
+╔══════════════════════════════════════════════╗
+║             PRIYA.EXE TERMINAL               ║
+╠══════════════════════════════════════════════╣
+║  [SYSTEM]       ONLINE                       ║
+║  [IDENTITY]     DEVELOPER IN PROGRESS        ║
+║  [FOCUS]        SOFTWARE + CYBERSECURITY     ║
+║  [MODE]         LEARN | BUILD | SECURE       ║
+║  [NEXT LEVEL]   UNLOCKING...                 ║
+╚══════════════════════════════════════════════╝
+```
+
+<!-- =============== END PRIYA.EXE TERMINAL =============== -->
