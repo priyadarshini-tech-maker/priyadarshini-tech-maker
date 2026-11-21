@@ -296,3 +296,27 @@
 
 <!-- =============== END TECH ARSENAL =============== -->
 
+---
+
+<h2 align="center">🌌 ENTER MY DIGITAL UNIVERSE</h2>
+
+<p align="center">
+  <a href="https://priyadarshini-tech-maker.github.io/priya-exe-cyberpunk-city-s/">
+    <img src="https://img.shields.io/badge/🚀_EXPLORE_PRIYA.EXE-NEON_CYBERPUNK-ff39d7?style=for-the-badge&logo=github&logoColor=white" alt="Explore PRIYA.EXE">
+  </a>
+</p>
+
+<p align="center">
+  <b>WELCOME TO PRIYA.EXE — THE DIGITAL UNIVERSE</b>
+  <br>
+  An interactive 3D cyberpunk city showcasing my projects, skills and cybersecurity journey.
+</p>
+
+<p align="center">
+  <a href="https://priyadarshini-tech-maker.github.io/priya-exe-cyberpunk-city-s/">
+    🌐 LAUNCH MY 3D WEBSITE ↗
+  </a>
+</p>
+
+---
+
