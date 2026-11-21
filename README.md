@@ -223,3 +223,62 @@
 ```
 
 <!-- =============== END PRIYA.EXE TERMINAL =============== -->
+
+<!-- =============== TECH ARSENAL =============== -->
+
+<h2 align="center">⚡ MY TECH ARSENAL</h2>
+
+<p align="center">
+  <i>Building skills. Exploring technology. Leveling up every day.</i>
+</p>
+
+<h3 align="center">💻 PROGRAMMING LANGUAGES</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" />
+
+</div>
+
+<h3 align="center">🎨 WEB DEVELOPMENT</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
+
+</div>
+
+<h3 align="center">🗄️ DATABASE & TOOLS</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+
+</div>
+
+<h3 align="center">🔐 CYBERSECURITY & SYSTEMS</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TryHackMe-Learning-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+<img src="https://img.shields.io/badge/Networking-Exploring-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web%20Security-Learning-EC4899?style=for-the-badge" />
+
+</div>
+
+<h3 align="center">🌱 CURRENT LEARNING JOURNEY</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Improving-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-Practicing-9333EA?style=flat-square" />
+<img src="https://img.shields.io/badge/Linux-Exploring-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Cybersecurity-Developing-EC4899?style=flat-square" />
+
+</div>
+
+<!-- =============== END TECH ARSENAL =============== -->
